@@ -2,7 +2,7 @@
 
 Notebooks for **DS701: Tools for Data Science** (Boston University, Fall 2026).
 
-- **Course site:** https://tools4ds.github.io/DS701-Course-Notes-FA26/
+- **Course site:** https://tools4ds.github.io/ds701/
 - `jupyter_notebooks/` — one notebook per lecture, the target of the "Open in
   Colab" badge at the top of each lecture.
 - `class_activity_notebooks/<activity>/` — in-class group activities. Each
